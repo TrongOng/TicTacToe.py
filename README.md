@@ -1,2 +1,2 @@
 # TicTacToe.py
-School Project
+School Project - First Program
